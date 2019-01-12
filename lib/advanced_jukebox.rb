@@ -45,7 +45,7 @@ def play(my_songs)
   
   puts "Please enter a song name:"
   response = gets.chomp
-   songs_arr = (1..songs.size).to_a
+   songs_arr = (1..my_songs.size).to_a
   if my_songs.has_key?(response) 
     #puts "Playing #{response}"
     system 'open #{my_songs[response]}'
