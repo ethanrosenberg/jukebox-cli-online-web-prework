@@ -1,1 +1,1 @@
-system 'open /jukebox-cli/audio/Emerald-Park/04.mp3'
+system 'open /audio/Emerald-Park/04.mp3'
