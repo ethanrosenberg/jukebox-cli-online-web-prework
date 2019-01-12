@@ -50,6 +50,7 @@ def play(my_songs)
    songs_arr = (1..my_songs.size).to_a
   if my_songs.has_key?(response) 
     puts "Playing #{response}"
+    binding.pry
     system 'open #{my_songs[response]}'
   else
     puts "Invalid input, please try again."
