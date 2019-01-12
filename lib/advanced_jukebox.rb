@@ -6,7 +6,7 @@ require 'pry'
 #"Go Go GO" => '< path to this directory >/jukebox-cli/audio/Emerald-Park/01.mp3',
 
  my_songs = {
- "Go Go GO" => '/jukebox-cli-online-web-prework/audio/Emerald-Park/01.mp3',
+ "Go Go GO" => '/audio/Emerald-Park/01.mp3',
  "LiberTeens" => '/home/blithe-acrobat-2921/jukebox-cli-online-web-prework/audio/Emerald-Park/02.mp3',
  "Hamburg" =>  '/audio/Emerald-Park/03.mp3',
 "Guiding Light" => '< path to this directory >/jukebox-cli/audio/Emerald-Park/04.mp3',
