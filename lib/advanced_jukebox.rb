@@ -77,7 +77,7 @@ def run(my_songs)
      #binding.pry
       list(songs)
     elsif resp == "play"
-      play(songs)
+      play(my_songs)
     elsif resp == "help"
       help
     elsif resp == "exit"
