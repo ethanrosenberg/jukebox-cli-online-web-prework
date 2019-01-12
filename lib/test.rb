@@ -1,1 +1,1 @@
-system 'open 099.mp3'
+system 'open /099.mp3'
