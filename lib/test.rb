@@ -1,0 +1,1 @@
+system 'open /jukebox-cli/audio/Emerald-Park/04.mp3'
