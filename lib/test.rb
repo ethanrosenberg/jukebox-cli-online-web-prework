@@ -1,1 +1,1 @@
-system 'open ./audio/Emerald-Park/04.mp3'
+system 'open /home/blithe-acrobat-2921/jukebox-cli-online-web-prework/audio/Emerald-Park/04.mp3'
